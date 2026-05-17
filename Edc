@@ -1,1 +1,150 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SabhaWeb3 | Pusat Cuan Harian</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        body {
+            background-color: #0d1117;
+            color: #c9d1d9;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px 10px 80px 10px;
+            min-height: 100vh;
+        }
+        .container {
+            width: 100%;
+            max-width: 450px;
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 16px;
+            padding: 20px;
+            box-shadow: 0px 8px 24px rgba(0,0,0,0.5);
+            text-align: center;
+        }
+        h1 {
+            color: #58a6ff;
+            font-size: 24px;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .subtitle {
+            font-size: 13px;
+            color: #8b949e;
+            margin-bottom: 20px;
+        }
+        .slot-iklan {
+            margin: 15px 0;
+            padding: 10px;
+            background: #21262d;
+            border: 1px dashed #8b949e;
+            border-radius: 8px;
+            min-height: 60px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .btn-link {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            padding: 14px;
+            margin: 12px 0;
+            color: #ffffff;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 10px;
+            font-size: 15px;
+            transition: transform 0.2s;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+        }
+        .btn-link:active {
+            transform: scale(0.98);
+        }
+        .dana-kaget {
+            background: linear-gradient(45deg, #ff416c, #ff4b2b);
+            border: 1px solid #ff7b72;
+        }
+        .afiliasi {
+            background: linear-gradient(45deg, #11998e, #38ef7d);
+        }
+        .download {
+            background: linear-gradient(45deg, #f12711, #f5af19);
+        }
+        .komunitas {
+            background: linear-gradient(45deg, #00c6ff, #0072ff);
+        }
+        .sticky-ad {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: #161b22;
+            border-top: 2px solid #58a6ff;
+            padding: 5px;
+            z-index: 99999;
+            display: flex;
+            justify-content: center;
+        }
+        .footer-text {
+            font-size: 11px;
+            color: #8b949e;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
 
+    <div class="container">
+        <h1>SabhaWeb3 HUB 🚀</h1>
+        <p class="subtitle">Situs Resmi Kumpulan Link Penghasil Cuan Tercepat</p>
+
+        <div class="slot-iklan">
+            <div id="frame" style="width: 100%;margin: auto;position: relative;">
+                <iframe data-aa='2437877' src='//acceptable.a-ads.com/2437877/?size=Adaptive' style='border:0; padding:0; width:100%; height:auto; overflow:hidden;display: block;margin: auto'></iframe>
+            </div>
+        </div>
+
+        <a href="https://link-dana-kaget-kamu.com" class="btn-link dana-kaget" target="_blank">
+            🎁 KLAIM DANA KAGET HARI INI
+        </a>
+
+        <a href="https://shope.ee/link-afiliasi-kamu" class="btn-link afiliasi" target="_blank">
+            🔥 BARANG UNIK VIRAL TIKTOK (DISKON 90%)
+        </a>
+
+        <div class="slot-iklan">
+            <div id="frame" style="width: 100%;margin: auto;position: relative;">
+                <iframe data-aa='2437877' src='//acceptable.a-ads.com/2437877/?size=Adaptive' style='border:0; padding:0; width:100%; height:auto; overflow:hidden;display: block;margin: auto'></iframe>
+            </div>
+        </div>
+
+        <a href="https://snacklink.co/link-download-kamu" class="btn-link download" target="_blank">
+            🎮 DOWNLOAD MINECRAFT & SPOTIFY PREMIUM GRATIS
+        </a>
+
+        <a href="https://t.me/link-grup-telegram-kamu" class="btn-link komunitas" target="_blank">
+            💬 GABUNG GRUP TELEGRAM BERBURU BITCOIN
+        </a>
+
+        <p class="footer-text">© 2026 SabhaWeb3. All Rights Reserved.</p>
+    </div>
+
+    <div class="sticky-ad">
+        <div id="frame" style="width: 100%; max-width: 450px; margin: auto; position: relative;">
+            <iframe data-aa='2437877' src='//acceptable.a-ads.com/2437877/?size=Adaptive' style='border:0; padding:0; width:100%; height:50px; overflow:hidden; display: block; margin: auto'></iframe>
+        </div>
+    </div>
+
+</body>
+</html>
